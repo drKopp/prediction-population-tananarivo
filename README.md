@@ -1,6 +1,6 @@
 # 📈 Prédiction de la Population
 
-Ce projet explore plusieurs modèles de machine learning pour prédire l'évolution de la population mondiale en utilisant un ensemble de données historiques. Il a été entièrement développé dans un notebook Jupyter (`predictionPopulation.ipynb`).
+Ce projet explore plusieurs modèles de machine learning pour prédire l'évolution de la population de Tananarivo en utilisant un ensemble de données historiques. Il a été entièrement développé dans un notebook Jupyter (`predictionPopulation.ipynb`).
 
 ---
 
